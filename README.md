@@ -1,17 +1,7 @@
 # Computer Graphics and Visualization - 3D scene project
 
-While designing the application I took the bottom-up design approach, working on the most specific and basic components such as granually adding logic to the code to make the 3D scene more realistic until the results were satisfied. During this project I was able to improve my critical thinking and code analysis, one of the methodogies I utilized to improve the code was to constantly change sections of the code to understand the impact of the changes, additionally, I was able to design complex 3D shapes using primative shapes with OpenGL. The methodology of breaking the codes in section to understand it better can be utilized in any of the projects I will be working on. 
-While working on the 3D scene I had to break down real objects from a 2D image into primitive shapes, the process of development was complicated at the beguining and it took me many tries until I was able to apply texture, and lighting correctly. To better understand how the code worked I had to break down a
-
-![2022-06-23_13-17-24](https://user-images.githubusercontent.com/63686603/175358109-ea83d1ec-499c-41cb-bd12-1baa1e5beb6a.png)
+While designing the application, I took the bottom-up design approach, working on the most specific and basic components such as gradually adding logic to the code to make the 3D scene more realistic until the results were satisfying. During this project, I was able to improve my critical thinking and code analysis, one of the methodologies I utilized to improve the code was to constantly change sections of the code to understand the impact of the changes, what's more, I was able to design complex 3D shapes using primitive shapes with OpenGL. The method of breaking code into sections to understand it better can be utilized in any of the projects I will be working on during my career as a software developer. 
+While working on the 3D scene, I had to break down objects from a 2D image into primitive shapes, the process of development was complicated at the beginning and it took me many tries until I was able to apply texture, and lighting correctly. All of the skills I have learned during this course helped me to improve my skills in computer science. The development of 3D scenes with OpenGL is a complex process that requires many different tools, and an understanding of three-dimensional matrices to place objects in a 3D world, this knowledge can be applied in many different areas of computer science such as games design. 
 
 
-
-
-What new development strategies did you use while working on your 3D scene?
-How did iteration factor into your development?
-How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-How can computer science help me in reaching my goals?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
-
+![3D scene](https://user-images.githubusercontent.com/63686603/175435367-eb1d097b-36f3-4531-b84b-ce3e95ba114b.png)
